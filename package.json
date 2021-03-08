@@ -1,18 +1,18 @@
 {
-  "name": "@uniswap/lib",
-  "version": "4.0.1-alpha",
-  "description": "📖 Solidity libraries that are shared across Uniswap contracts",
+  "name": "@exchange-one/lib",
+  "version": "1.0.0",
+  "description": "📖 Solidity libraries that are shared across Exchange ONE contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
   "homepage": "https://uniswap.org",
   "repository": {
-    "url": "https://github.com/Uniswap/uniswap-lib",
+    "url": "https://github.com/Exchange-One/exchangeone-lib",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/Uniswap/uniswap-lib/issues"
+    "url": "https://github.com/Exchange-One/exchangeone-lib/issues"
   },
   "engines": {
     "node": ">=10"
